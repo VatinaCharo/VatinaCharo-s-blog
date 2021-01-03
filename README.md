@@ -1,2 +1,2 @@
-# vc.github.io
+# VCB
 Vatina Charo's Blog
